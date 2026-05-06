@@ -1,0 +1,1 @@
+# Costumized-conky-for-fedora
