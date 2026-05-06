@@ -30,5 +30,5 @@ Disk Paths: Update the /data section if your storage is mounted elsewhere.
 ## Preview
 
 <p align="center">
-  <img src="screenshot.png" width="700">
+  <img src="Screenshot.png" width="700">
 </p>
